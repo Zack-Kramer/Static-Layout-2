@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+    font-family: barlow
+}
+h1 { 
+    color:white 
+} 
+ul {
+    position: fixed;
+    top: auto;
+    height: auto;
+    width: 100px;
+    background-color: grey;
+}
+li{
+    display: inline;
+    float: right;
+    padding: 3px;
+}
+#EFAlogo{
+    float: left;
+    left: 0px;
+}
+#searchlogo{
+    height: 1px;
+}
